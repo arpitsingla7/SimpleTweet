@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I did find the implemenation of recycler view to be pretty smooth, This is the 3rd project and it seems I am now familiar with the usage of recyclerview. 
 
 ## Open-source libraries used
 
